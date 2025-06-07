@@ -1,68 +1,68 @@
-# Привет! Меня зовут Валерий 👋
+# Hi! I'm Valery 👋
 
-Я — программист и преподаватель, совмещаю разработку Telegram-ботов с работой репетитором по математике и информатике. Разрабатываю Telegram-ботов на Python с использованием `aiogram`, развиваю личный блог, создаю курсы по репетиторству и стремлюсь к полной финансовой независимости.
-
----
-
-## 🎓 Образование
-
-- **Неоконченное высшее**: обучаюсь в университете (специальность: ИТ-направление).
-- Самостоятельное обучение через практику и реальные проекты: Telegram-боты, онлайн-курсы, маркетинг в Instagram.
+I'm a programmer and tutor, combining the development of Telegram bots with teaching mathematics and computer science. I build Telegram bots in Python using `aiogram`, run a personal blog, create tutoring courses, and strive for full financial independence.
 
 ---
 
-## 📚 Дополнительное образование
+## 🎓 Education
 
-- Прошел несколько онлайн-курсов по Python и Telegram API.
-- Читаю документацию, статьи и смотрю англоязычные YouTube-каналы по backend и автоматизации.
-- Прохожу курс "Разработчик нейросетей"
-- Участвовал в создании авторского курса по репетиторству (ОГЭ/ЕГЭ) — от методологии до продаж.
+- **Incomplete higher education**: currently studying at university (major: Information Systems and Technologies).
+- Self-taught through hands-on practice and real-world projects: Telegram bots, online courses, Instagram marketing.
 
 ---
 
-## 💼 Опыт работы
+## 📚 Additional Education
 
-### Telegram-боты
-- **Проекты под ключ**: запись на услуги (барберы, мастера маникюра и пр.)
-- **ZION** — трансформационный Telegram-бот-помощник по личностному росту (30-дневная программа)
-- Настройка, сопровождение, хостинг — все беру на себя. Клиенты не касаются кода.
-
-### Репетиторство
-- Стаж: 3+ года
-- Работаю онлайн: помогаю готовиться к ОГЭ/ЕГЭ по информатике и математике
-- Создаю **курс для начинающих репетиторов**: как зарабатывать на знаниях
+- Completed several online courses on Python and Telegram API.
+- I read documentation, articles, and watch English-language YouTube channels on backend development and automation.
+- Currently taking a course in **Neural Network Development**.
+- Participated in the creation of an original tutoring course (OGE/EGE) — from methodology to sales.
 
 ---
 
-## 🛠 Ключевые навыки
+## 💼 Work Experience
 
-### Фундаментальные
+### Telegram Bots
+- **Turnkey projects**: booking systems for barbers, nail artists, and other services.
+- **ZION** — a transformational Telegram bot assistant for personal growth (30-day program).
+- I handle setup, support, and hosting — clients never touch the code.
 
-- Понимание архитектуры Telegram Bot API
-- Знание алгоритмов и структуры данных (применяю в обучении и коде)
-- Опыт работы с сетями и хостингом (разворачивание ботов, работа с VPS)
+### Tutoring
+- 3+ years of experience
+- Online teaching: preparing students for OGE/EGE in computer science and math.
+- Creating a **course for beginner tutors** on how to earn money with their knowledge.
 
-### Прикладные
+---
 
-- **Python** — основной язык. Пишу production-код
-- **Aiogram** — основа всех Telegram-ботов
+## 🛠 Key Skills
+
+### Fundamental
+
+- Understanding of the Telegram Bot API architecture
+- Knowledge of algorithms and data structures (applied in both teaching and development)
+- Experience with networking and hosting (deploying bots, working with VPS)
+
+### Applied
+
+- **Python** — primary language, writing production-ready code
+- **Aiogram** — the core of all my bots
 - **asyncio**, **aiohttp**, **requests**
 - **PostgreSQL**, **SQLite**
-- **Docker** — для изоляции и развёртывания
-- **Git** — каждый проект на GitHub
-- Работа с `yookassa`, оплатами и CRM через Telegram-ботов
+- **Docker** — for isolation and deployment
+- **Git** — all projects hosted on GitHub
+- Experience with `yookassa`, payments, and CRM integration via bots
 
 ---
 
-## 🔗 Связь и соцсети
+## 🔗 Contacts & Socials
 
-- [Instagram-блог (репетитор/боты)](https://instagram.com/dolmyan) — рилсы, кейсы, истории успеха
+- [Instagram Blog (Tutoring/Bots)](https://instagram.com/dolmyan) — reels, case studies, success stories  
 - Telegram: [@bigboyandroid](https://t.me/biboyandroid)
 
 ---
 
-## 📌 Статус занятости
+## 📌 Availability
 
-✅ Открыт к новым проектам  
-📩 Пишу на заказ Telegram-ботов под ключ  
-🎯 Готов к сотрудничеству в формате "сделать и поддерживать"
+✅ Open to new projects  
+📩 I develop custom Telegram bots on demand  
+🎯 Ready to collaborate in a "build & maintain" format
